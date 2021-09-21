@@ -1,16 +1,104 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+  "alerts": [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "path": "/static/media/img0.1bfc8a67.svg",
+      "token_address": "SUSHI",
+      "exchange_name": "Burger Swap",
+      "alert_price": 0.62,
+      "current_price": 0.6,
+      "notification_type": "DISCORD",
+      "blockchain": "Ethereum"
+    },
+    {
+      "id": 1,
+      "path": "/static/media/img1.bc2d9f15.svg",
+      "token_address": "WINKLINK",
+      "exchange_name": "Sushi",
+      "alert_price": 1.67,
+      "current_price": 1.92,
+      "notification_type": "WHATSAPP",
+      "blockchain": "Ethereum"
+    },
+    {
+      "id": 2,
+      "path": "/static/media/img10.c5089a75.svg",
+      "token_address": "BURGER SWAP",
+      "exchange_name": "The Graph",
+      "alert_price": 2.65,
+      "current_price": 2.31,
+      "notification_type": "WECHAT",
+      "blockchain": "Ethereum"
+    },
+    {
+      "id": 3,
+      "path": "/static/media/img2.c156f7dc.svg",
+      "token_address": "AVALANCHE",
+      "exchange_name": "Avalanche",
+      "alert_price": 2.95,
+      "current_price": 1.05,
+      "notification_type": "QZONE",
+      "blockchain": "Ethereum"
+    },
+    {
+      "id": 4,
+      "path": "/static/media/img3.e11d6f2f.svg",
+      "token_address": "UNISWAP",
+      "exchange_name": "Tezos",
+      "alert_price": 2.74,
+      "current_price": 2.55,
+      "notification_type": "TUMBLR",
+      "blockchain": "Ethereum"
+    },
+    {
+      "id": 5,
+      "path": "/static/media/img4.2f8d0ca7.svg",
+      "token_address": "CHAINLINK",
+      "exchange_name": "Dai",
+      "alert_price": 2.33,
+      "current_price": 2.98,
+      "notification_type": "INSTAGRAM",
+      "blockchain": "Ethereum"
+    },
+    {
+      "id": 7,
+      "path": "/static/media/img6.45ed9792.svg",
+      "token_address": "DAI",
+      "exchange_name": "Wrapped Bitcoin",
+      "alert_price": 2.1,
+      "current_price": 1.16,
+      "notification_type": "SKYPE",
+      "blockchain": "Ethereum"
+    },
+    {
+      "id": 8,
+      "path": "/static/media/img7.5e4c982e.svg",
+      "token_address": "TEZOS",
+      "exchange_name": "WINkLink",
+      "alert_price": 1.99,
+      "current_price": 0.53,
+      "notification_type": "VIBER",
+      "blockchain": "Ethereum"
+    },
+    {
+      "id": 9,
+      "path": "/static/media/img8.d5687273.svg",
+      "token_address": "PANCAKESWAP",
+      "exchange_name": "Chainlink",
+      "alert_price": 2.39,
+      "current_price": 0.28,
+      "notification_type": "LINE",
+      "blockchain": "Ethereum"
+    },
+    {
+      "id": 10,
+      "path": "/static/media/img9.f109187c.svg",
+      "token_address": "AAVE",
+      "exchange_name": "Maker",
+      "alert_price": 1.94,
+      "current_price": 2.61,
+      "notification_type": "SNAPCHAT",
+      "blockchain": "Ethereum"
     }
   ]
 }
